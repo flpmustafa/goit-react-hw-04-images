@@ -28,7 +28,6 @@ const ImageGallery = ({ hits, isLoad, onRefresh, onLoadMore}) => {
       </div> 
     </>
   );
-  
 }
 
 ImageGallery.propTypes = {
